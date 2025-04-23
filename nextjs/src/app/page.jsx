@@ -7,7 +7,7 @@ export default function home() {
     <>
     {/*header*/}
     <section>
-        
+        <header></header>
     </section>
    </>
 
